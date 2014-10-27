@@ -21,10 +21,14 @@ All plugin configuration must be placed in user or project-specific settings ins
 
 ```javascript
 {
-    // other user config ...
-    "todo": {
-        "patterns": {}
-    }
+    "settings": {
+        
+        // other user config ...
+        "todo": {
+            "patterns": {}
+        }
+
+    } 
 }
 ```
 
